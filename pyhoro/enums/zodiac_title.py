@@ -3,7 +3,7 @@ from enum import Enum
 
 class ZodiacTitle(str, Enum):
     aries = "aries"
-    tarus = "tarus"
+    taurus = "taurus"
     gemini = "gemini"
     cancer = "cancer"
     leo = "leo"
@@ -11,6 +11,6 @@ class ZodiacTitle(str, Enum):
     libra = "libra"
     scorpio = "scorpio"
     sagittarius = "sagittarius"
-    capricon = "capricon"
+    capricorn = "capricorn"
     aquarius = "aquarius"
     pisces = "pisces"
